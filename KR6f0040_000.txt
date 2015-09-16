@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說大乘方等要慧經
+#+DATE: 2015-08-30 20:01:41.976153
+#+PROPERTY: JUAN 0
