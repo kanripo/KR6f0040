@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:01:41.786664
+#+DATE: 2015-08-30 20:01:43.127126
 #+TITLE: 佛說大乘方等要慧經
 #+PROPERTY: CBETA_ID T12n0348
 #+PROPERTY: ID KR6f0040
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 348
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6f0040_T_000-0186b>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0040_T_001-0186b> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.348[No.310(41)]¶
-
- 佛說大乘方等要慧經¶
+No. 348 [No. 310(41)]¶
+佛說大乘方等要慧經¶
 ¶
 後漢安息國三藏安世高譯¶
 
@@ -22,8 +21,7 @@ No.348[No.310(41)]¶
 一時佛遊於舍衛國，爾時彌勒菩薩¶
 叉手白佛言：¶
 
-「世尊！我欲小有所問，若世尊聽所問者乃敢¶
-陳之。」
+「世尊！我欲小有所問，若世尊聽所問者乃敢陳之。」
 
 佛言：「若有所疑便問，吾當為汝解說，使¶
 意歡喜。」
@@ -45,5 +43,5 @@ No.348[No.310(41)]¶
 成就。是為八事。菩薩疾逮得無上一切智。」
 <pb:KR6f0040_T_001-0186c>¶
 
-彌勒菩薩及諸眾會皆歡喜。¶
+彌勒菩薩及諸會皆歡喜。¶
 大乘方等要慧經
