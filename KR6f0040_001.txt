@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:01:42.182419
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:59
 #+TITLE: 佛說大乘方等要慧經
 #+PROPERTY: CBETA_ID T12n0348
 #+PROPERTY: ID KR6f0040
